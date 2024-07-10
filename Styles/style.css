@@ -28,7 +28,7 @@ color: 0D1321;}
      padding: 15px 18px;
 color: #FFFFFF;
 background-color: #0D1321;
-border-radius: 10px;}
+border-radius: 10px; text-decoration: none; }
 .main-title{font-size: 32px;
 font-weight: bolder;}
 .cnter-align{text-align: center;}
