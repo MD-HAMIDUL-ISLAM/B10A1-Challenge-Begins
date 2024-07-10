@@ -29,3 +29,13 @@ color: 0D1321;}
 color: #FFFFFF;
 background-color: #0D1321;
 border-radius: 10px;}
+.main-title{font-size: 32px;
+font-weight: bolder;}
+.cnter-align{text-align: center;}
+.main-description1{font-size: 18px;
+color:#0D1321}
+.layers-title{color: #0D1321; font-size: 24px; font-weight: bold;}
+.layers-description{font-size: 16; color: #0D1321;}
+.body-layer{display: flex; justify-content: space-between; gap: 200px; padding: 50px;}
+.btn-learn{font-size: 18px; font-weight: 500; color: #0D1321; padding: 8px 12px; }
+.section-styles{margin: 60px 130px; padding: 80px 95px;}
