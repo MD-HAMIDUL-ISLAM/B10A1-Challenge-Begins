@@ -39,3 +39,6 @@ color:#0D1321}
 .body-layer{display: flex; justify-content: space-between; gap: 200px; padding: 50px;}
 .btn-learn{font-size: 18px; font-weight: 500; color: #0D1321; padding: 8px 12px; }
 .section-styles{margin: 60px 130px; padding: 80px 95px;}
+.inspiration{margin: 50px 150px;}
+.inspiration-description{margin: 0px 200px;}
+.video{width: 1000px; height: 550px; padding: 32px; border-radius: 50px; }
